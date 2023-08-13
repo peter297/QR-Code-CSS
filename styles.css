@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #d5e1ef; 
+
+}
+
+
+.attribution{
+    background-color: #ffffff;
+    width: 300px;
+    height: 450px;
+    margin: 100px auto;
+    border-radius: 15px;
+    max-width: 300px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 16px;
+    
+   
+    
+   
+    
+}
+
+.attribution img{
+    display: block;
+    margin: 5px auto;
+    width: 87%;
+    border-radius: 5px;
+    
+
+    
+}
+
+p{
+    background-color: #ffffff;
+
+}
+
+h2{
+    background-color: #ffffff;
+    font-size: 20px;
+  
+}
+
